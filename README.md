@@ -1,3 +1,3 @@
 # Titanic-Survival-Predictions-Kaggle
 
-This project is still not complete. 
+This repo contains a ipynb in which i solved a kaggle problem .
